@@ -1,4 +1,4 @@
-ass Node
+class Node
   attr_accessor :leaf
   def initialize(degree)
     @degree = degree
